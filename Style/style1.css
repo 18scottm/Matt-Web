@@ -1,0 +1,22 @@
+body {
+    background-image: url("file:///C:/Users/18scottm/Downloads/1920x500-54f92705c90e8c6b54000004.gif_w=500");
+}
+p {
+	padding: 1em;
+	border-width: 10px;
+	border-style: solid;
+	border-color: red;
+	margin: 10px
+}
+p1 {
+	padding: 1em;
+	border-width: 10px;
+	border-style: solid;
+	border-color: red;
+	margin: 10px
+}
+
+head {
+    color: white;
+    text-align: center;
+}
